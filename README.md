@@ -1,7 +1,11 @@
+
+
 ![profile main image](./sj_profile_img.png)
 
+<br>
+
 ### :heavy_check_mark: Introduce
-　:information_desk_person: UI Developer를 향해 가는 웹퍼블리셔 이수진입니다.
+　:information_desk_person: UI Developer를 향해 가는 이수진입니다.
 
 ---
 
