@@ -28,4 +28,7 @@
 ### :heavy_check_mark: Portfolio
 　:link: [Road to FE Develop (Personel Website)](https://sjroad.netlify.app/)<br>
 　:link: [Velog (blog)](https://velog.io/@jellina)
+ 
+ ---
 
+![lsj5677's github stats](https://github-readme-stats.vercel.app/api?username=lsj5677&show_icons=true)
