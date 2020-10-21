@@ -17,16 +17,8 @@
 
 ---
 
-### :heavy_check_mark: Ecosystem
-- Webpack
-- Package manager `  npm`
-- Version Control `  git`
-- Hosting ` netlify`
-
----
-
 ### :heavy_check_mark: Portfolio
-　:link: [Road to FE Develop (Personel Website)](https://sjroad.netlify.app/)<br>
+　:link: [Road to FE Develop (Personel Website)](https://sjroad.netlify.app/)
 　:link: [Velog (blog)](https://velog.io/@jellina)
  
  ---
