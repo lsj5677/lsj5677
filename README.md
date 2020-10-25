@@ -13,7 +13,7 @@
 - HTML ` + HTML5`
 - CSS Preprocess ` + SCSS`
 - JavaScript ` + ES6`
-- jQuery ` + gsap animejs skrollr`
+- jQuery
 
 ---
 
