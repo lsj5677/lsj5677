@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F4C2C2&height=250&section=header&text=Welcome%20🙌&desc=Agnes's%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=555555)
 
 <div align=center>
+<div align=center>
   Hello,
   <br/>
   I am a developer who likes challenges.
@@ -24,7 +25,7 @@
 --- 
 
 <div align=center>
-  <h3># Skills</h3>
+  <h3>🖥 What I can do</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white"/>
@@ -40,3 +41,4 @@
 ![lsj5677's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj5677&rank_icon=github&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj5677&layout=compact)
   
+</div>
